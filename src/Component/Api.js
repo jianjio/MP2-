@@ -115,7 +115,7 @@ const App = () => {
       </nav>
       <input
         type="text"
-        className="w-full p-2 mb-4 border rounded bg-black text-white"
+        className="w-1/3 content-center p-2 mb-4 border rounded bg-black text-white"
         placeholder="Search games..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
