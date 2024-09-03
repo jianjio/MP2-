@@ -1,5 +1,5 @@
 import "./App.css";
-import Card from "./Component/Card";
+// import Carousel from "./Component/Carousel";
 import Header from "./Component/Header";
 import Footer from "./Component/Footer";
 import Api from "./Component/Api";
