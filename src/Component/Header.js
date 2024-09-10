@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "../assets/logo-footer.png";
-import Background from "../assets/pxfuel.jpg";
 
 const Header = () => {
   return (
