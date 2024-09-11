@@ -5,6 +5,7 @@ const Footer = () => {
         <li>
           <a
             href="https://github.dev/jianjio/MP2-"
+            target="_blank"
             className="hover:underline= me-4 md:me-6"
           >
             <i className="fa-brands fa-github fa-2xl"></i>
@@ -13,6 +14,7 @@ const Footer = () => {
         <li>
           <a
             href="https://www.youtube.com/watch?v=nDUvpvK3a0M"
+            target="_blank"
             className="hover:underline me-4 md:me-6"
           >
             <i className="fa-brands fa-youtube fa-2xl"></i>
@@ -21,13 +23,18 @@ const Footer = () => {
         <li>
           <a
             href="https://www.facebook.com/brokodokasd"
+            target="_blank"
             className="hover:underline me-4 md:me-6"
           >
             <i className="fa-brands fa-facebook fa-2xl"></i>
           </a>
         </li>
         <li>
-          <a href="https://x.com/Jiotiotangco" className="hover:underline">
+          <a
+            href="https://x.com/Jiotiotangco"
+            target="_blank"
+            className="hover:underline"
+          >
             <i className="fa-brands fa-twitter fa-2xl"></i>
           </a>
         </li>
@@ -37,6 +44,7 @@ const Footer = () => {
           © 2024{" "}
           <a
             href="https://www.facebook.com/EkkoE2k01"
+            target="_blank"
             className="hover:underline"
           >
             Nieves & Tiotangco
